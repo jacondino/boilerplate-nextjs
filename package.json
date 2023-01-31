@@ -11,7 +11,7 @@
   },
   "lint-staged": {
     "src/**/*": [
-      "next lint"
+      "yarn lint"
     ]
   },
   "dependencies": {
