@@ -7,7 +7,7 @@ describe('Test component Main', () => {
     render(<Main />)
 
     expect(
-      screen.getByRole('heading', { name: /Test Main/i })
+      screen.getByRole('heading', { name: /Boilerplate/i })
     ).toBeInTheDocument()
   })
 })

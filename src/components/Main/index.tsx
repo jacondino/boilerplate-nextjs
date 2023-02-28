@@ -1,1 +1,1 @@
-export const Main = () => <h1>Test Main</h1>
+export const Main = () => <h1>Boilerplate</h1>
